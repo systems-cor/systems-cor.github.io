@@ -1,3 +1,6 @@
 theme: jekyll-theme-cayman
-title: Systems COR
+title: Systems CoR
 description: The Systems CoR is a group of researchers at MIT focused on building and investigating large-scale software systems that power modern computers, phones, data centers, and networks, including operating systems, the Internet, wireless networks, databases, and other software infrastructure.
+
+github:
+  is_project_page: false

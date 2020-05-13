@@ -1,37 +1,75 @@
-## Welcome to GitHub Pages
+<!---
+## Faculty
+[Sam Madden](http://db.csail.mit.edu/madden)
 
-You can use the [editor on GitHub](https://github.com/vibhaa/systems-cor-website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[Mohammad Alizadeh](https://people.csail.mit.edu/alizadeh/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Arvind]()
 
-### Markdown
+[Hari Balakrishnan](http://nms.csail.mit.edu/~hari/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Adam Belay]()
 
-```markdown
-Syntax highlighted code block
+[Michael Carbin]()
 
-# Header 1
-## Header 2
-### Header 3
+[Adam Chlipala]()
 
-- Bulleted
-- List
+[David Clark]()
 
-1. Numbered
-2. List
+[Henry Corrigan-Gibbs](https://people.csail.mit.edu/henrycg/)
 
-**Bold** and _Italic_ and `Code` text
+[Jack Dennis]()
 
-[Link](url) and ![Image](src)
-```
+[Joel Emer]()
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Manya Ghobadi](https://people.csail.mit.edu/ghobadi/)
 
-### Jekyll Themes
+[John Guttag]()
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vibhaa/systems-cor-website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Daniel Jackson]()
+
+[Frans Kaashoek](https://pdos.csail.mit.edu/~kaashoek/)
+
+[David Karger]()
+
+[Tim Kraska]()
+
+[Barbara Liskov]()
+
+[Robert Morris]()
+
+[Martin Rinard]()
+
+[Daniel Sanchez]()
+
+[Julian Shun]()
+
+[Karen Sollins]()
+
+[Michael Stonebraker]()
+
+[Nickolai Zeldovich](https://people.csail.mit.edu/nickolai/)
+--->
+
+## Groups
+Ideally want a page per group with faculty/students list (and links to their webpages maybe),
+a list on ongoing projects and/or publications. Could probably link to group webpage if it is well maintained
+[Networks and Mobile Systems](./nms.html)
+
+[Parallel and Distributed Operating Systems](./pdos.html)
+
+[Databases](./db.html)
+
+Just added the first I could think of, please add more.
+
+
+### Calendar with all the affiliated group meetings
+Calendar!!
+
+### Resources
+[Academic Job Market](./academic.html)
+
+[Industry Jobs](./industry.html)
 
 ### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Contact vibhaa@mit.edu or tchajed@mit.edu for permissions to edit the website. 
