@@ -72,4 +72,5 @@ Calendar!!
 [Industry Jobs](./industry.html)
 
 ### Support or Contact
-Contact vibhaa@mit.edu or tchajed@mit.edu for permissions to edit the website. 
+Contact [vibhaa@mit.edu](mailto:vibhaa@mit.edu) or [tchajed@mit.edu](mailto:tchajed@mit.edu) 
+for permissions to edit the website. 
